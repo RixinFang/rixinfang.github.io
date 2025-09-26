@@ -23,7 +23,7 @@ repository               : "RixinFang/rixinfang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "rixinfang.jpg"
   name             : "Rixin Fang"
   pronouns         : # example: "she/her"  
   bio              : ""
